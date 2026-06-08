@@ -30,31 +30,70 @@ Home Screen
 
 ## Prints das Telas
 
-<!-- INSERIR PRINT: Splash Screen -->
+<table>
+  <tr>
+    <td align="center">
+      <strong>Splash Screen</strong><br>
+      <img src="https://github.com/user-attachments/assets/ae0a10b9-9ed6-450e-883f-d9fc35534ffd" width="220"/>
+    </td>
+    <td align="center">
+      <strong>Onboarding - Página 1</strong><br>
+      <img src="https://github.com/user-attachments/assets/9f580be0-208b-48d8-8f4e-ff591af3058f" width="220"/>
+    </td>
+    <td align="center">
+      <strong>Onboarding - Página 2</strong><br>
+      <img src="https://github.com/user-attachments/assets/35bdac67-81db-44fb-ad7c-ffe9e164df20" width="220"/>
+    </td>
+  </tr>
 
-<!-- INSERIR PRINT: Onboarding - Página 1 (Inteligência do Espaço) -->
+  <tr>
+    <td align="center">
+      <strong>Onboarding - Página 3</strong><br>
+      <img src="https://github.com/user-attachments/assets/a8585f88-d4a7-41f7-921f-b3cd8278699f" width="220"/>
+    </td>
+    <td align="center">
+      <strong>Home - Estado Inicial</strong><br>
+      <img src="https://github.com/user-attachments/assets/0367275f-a982-4137-b746-a6f7c759aab3" width="220"/>
+    </td>
+    <td align="center">
+      <strong>Home - Dados Carregados</strong><br>
+      <img src="https://github.com/user-attachments/assets/8afdaebf-1bbe-4722-8ae3-63b7f8fb2089" width="220"/>
+    </td>
+  </tr>
 
-<!-- INSERIR PRINT: Onboarding - Página 2 (Para Todo Produtor) -->
+  <tr>
+    <td align="center">
+      <strong>Análise Regional</strong><br>
+      <img src="https://github.com/user-attachments/assets/86000986-11e8-4cf1-8321-e7fa0d1084d5" width="220"/>
+    </td>
+    <td align="center">
+      <strong>Modo Técnico</strong><br>
+      <img src="https://github.com/user-attachments/assets/38407b8c-dadf-4cde-84f5-f70df94b7b08" width="220"/>
+    </td>
+    <td align="center">
+      <strong>Explorar Culturas</strong><br>
+      <img src="https://github.com/user-attachments/assets/058894fd-da1e-403d-9591-cf3153b88f45" width="220"/>
+    </td>
+  </tr>
 
-<!-- INSERIR PRINT: Onboarding - Página 3 (Sua Terra, Seu Potencial) -->
+  <tr>
+    <td align="center">
+      <strong>Busca Ativa</strong><br>
+      <img src="https://github.com/user-attachments/assets/253bd41e-6ee9-4709-acbf-3c53b711e1dc" width="220"/>
+    </td>
+    <td align="center">
+      <strong>Detalhe da Cultura</strong><br>
+      <img src="https://github.com/user-attachments/assets/85b21348-c34a-4d00-a605-4714882c00c8" width="220"/>
+    </td>
+    <td align="center">
+      <strong>Favoritos (Análises e Culturas)</strong><br>
+      <img src="https://github.com/user-attachments/assets/05734953-6f5e-4b72-bf8a-2d1c45fda331" width="220"/>
+      <br><br>
+      <img src="https://github.com/user-attachments/assets/649430d4-a3d7-420f-ae16-2cdda0dacca7" width="220"/>
+    </td>
+  </tr>
+</table>
 
-<!-- INSERIR PRINT: Home Screen - Estado inicial (sem região selecionada) -->
-
-<!-- INSERIR PRINT: Home Screen - Com dados climáticos carregados -->
-
-<!-- INSERIR PRINT: Análise Regional - Visão Geral -->
-
-<!-- INSERIR PRINT: Análise Regional - Modo Técnico -->
-
-<!-- INSERIR PRINT: Explorar por Cultura - Grid de culturas -->
-
-<!-- INSERIR PRINT: Explorar por Cultura - Busca ativa -->
-
-<!-- INSERIR PRINT: Detalhe da Cultura (ex: Soja) -->
-
-<!-- INSERIR PRINT: Favoritos - Aba Análises -->
-
-<!-- INSERIR PRINT: Favoritos - Aba Culturas -->
 
 ---
 

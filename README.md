@@ -34,7 +34,7 @@ Home Screen
   <tr>
     <td align="center">
       <strong>Splash Screen</strong><br>
-      <img src="https://github.com/user-attachments/assets/ae0a10b9-9ed6-450e-883f-d9fc35534ffd" width="220"/>
+    <img src="https://github.com/user-attachments/assets/c1151b67-edef-400f-bf16-9e4f79da5a14" width="220"/>
     </td>
     <td align="center">
       <strong>Onboarding - Página 1</strong><br>

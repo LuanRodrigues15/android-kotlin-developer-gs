@@ -64,7 +64,7 @@ fun SplashScreen(navController: NavController) {
             modifier = Modifier.alpha(alpha)
         ) {
             Image(
-                painter = painterResource(id = R.mipmap.ic_launcher),
+                painter = painterResource(id = R.drawable.ic_launcher_foreground),
                 contentDescription = "AgroSat Logo",
                 modifier = Modifier.size(100.dp)
             )

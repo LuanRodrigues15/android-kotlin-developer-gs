@@ -167,7 +167,7 @@ Koin com módulos separados por camada: `networkModule`, `dataModule`, `domainMo
 
 ## Vídeo Pitch
 
-<!-- INSERIR LINK DO YOUTUBE AQUI -->
+https://youtu.be/S6RpXkrxKMQ
 
 ---
 
